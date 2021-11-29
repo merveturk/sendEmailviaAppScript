@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+  Dear  %name <br/>
+Your Car driving test is booked for <b>%time</b> on <b>%date</b>  at  <b>%testcentre driving test centre</b> , Driver and Vehicle Standards Agency, Driving Test Centre Kirkcaldy, 10 Randolph Place, Kirkcaldy, KY1 2YX. <br/> 
+This test centre has ramped access if required
+<br/>
+Do not come for your test if anyone in your household has signs of Covid-19 or you need to isolate. Please arrive 5 mins before start time and wait outside the building for the examiner. Due to COVID safety checks, some tests may overrun
+<br/>
+<br/>
+<b style="color:red">You must bring:</b>  
+<br/> 
+• Your UK driving licence <br/> 
+ (if you have an old style paper licence, you must bring it along with a valid passport) <br/> 
+• Your theory test pass certificate <br/> 
+• A car - most people use their driving instructors, but you can <a href="https://www.gov.uk/driving-test/using-your-own-car">use your own</a> if it meets the rules <br/> 
+<br/> 
+<b>Your test will be cancelled and you will have to pay again if you do not bring the right things or you arrive late.</b> <br/> 
+<br/> 
+<b>How the test works</b> <br/> 
+You can find out <a href="https://www.gov.uk/driving-test/what-to-take" >how the driving test works </a> or <a href="https://www.safedrivingforlife.info/">read tips on how to prepare</a><br/> 
+<br/> 
+<b>Changing your test date</b> <br/> 
+You can <a href="https://www.gov.uk/change-driving-test">change your test date</a>  if you want to find an earlier appointment or move your test to a later date. You'll need your driving test reference number: <b>%refno</b>. <br/> 
+You can change or cancel your test up until <b>%lastdate</b>. You'll lose your fee if you make any changes after then. <br/> If you have queries regarding this appointment, email us quoting the driving test reference number above with your driving licence number or theory test number.
+<br/> 
+<a href="CustomerServices@dvsa.gov.uk">CustomerServices@dvsa.gov.uk</a> <br/> 
+<br/> 
+<b>Bad weather on the day of your test</b> <br/> 
+Call 01592652947 if there's fog, ice, snow, flooding, or high winds on the day of your test. You'll be told whether your test can go ahead or not. <br/> 
+We wish you success with your test.<br/> 
+<br/> 
+<br/> 
+<br/> 
+Driver and Vehicle Standards Agency
+  </body>
+</html>
